@@ -1,0 +1,4 @@
+由于是全自动化的测试，所以无脚本文件，只需在WeTest平台上提交对应的APK即可完成测试
+
+测试平台网址：http://wetest.qq.com/product/auto-compatibility-testing
+由于过程太简单，不以视频文件作为说明。
